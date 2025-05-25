@@ -1,0 +1,6 @@
+{
+  "/api/auth": "pages/api/auth.js",
+  "/api/categorias": "pages/api/categorias.js",
+  "/api/estados": "pages/api/estados.js",
+  "/api/tareas": "pages/api/tareas.js"
+}
